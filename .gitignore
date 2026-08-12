@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+sunglasses_settings.json
+*.mp3
+*.wav

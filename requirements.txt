@@ -1,0 +1,5 @@
+mediapipe>=0.10,<1
+numpy>=1.26,<3
+opencv-python>=4.9,<5
+pygame>=2.5,<3
+pyvirtualcam>=0.12,<1
